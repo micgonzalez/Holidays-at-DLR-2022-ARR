@@ -10,7 +10,10 @@ Each year a new planning committee is selected for reoccurring and new special e
 
 # Preview
 
-![Preview of this project.](https://github.com/micgonzalez/Holidays-at-DLR-2022-AAR/blob/main/holidays_aar_deck.jpg)
+![Preview of this project.](https://github.com/micgonzalez/Holidays-at-DLR-2022-ARR/blob/main/holidays_aar_deck.jpg)
+
+This is a preview of a slide of an After Action Report deck for Holidays at Disneyland Resort 2022.
+
 
 # Summary of skills
 
