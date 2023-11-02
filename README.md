@@ -2,7 +2,7 @@
 
 # Introduction
 
-This repository displays an after-action report that is like what I created in my day job as a Data Analyst for The Disneyland Resort. <b>The data set used for this repository is public data of Yelp’s reviews for the holiday season at The Disneyland Resort. The reason is I’m not able to use the actual excel file due to its sensitive nature.</b> The Yelp’s reviews data set were like Disney’s own data sets.
+This repository displays an after-action report that is like what I created in my day job as a Reporting Associate for The Disneyland Resort. <b>The data set used for this repository is public data of Yelp’s reviews for the holiday season at The Disneyland Resort. The reason is I’m not able to use the actual excel file due to its sensitive nature.</b> The Yelp’s reviews data set were like Disney’s own data sets.
 
 # Abstract
 
